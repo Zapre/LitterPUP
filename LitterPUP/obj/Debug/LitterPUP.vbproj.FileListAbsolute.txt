@@ -1,0 +1,12 @@
+G:\Programs\VB.NET\LitterPUP\LitterPUP\bin\Debug\LitterPUP.exe.config
+G:\Programs\VB.NET\LitterPUP\LitterPUP\bin\Debug\LitterPUP.exe
+G:\Programs\VB.NET\LitterPUP\LitterPUP\bin\Debug\LitterPUP.pdb
+G:\Programs\VB.NET\LitterPUP\LitterPUP\bin\Debug\LitterPUP.xml
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.vbprojAssemblyReference.cache
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.Resources.resources
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.vbproj.GenerateResource.cache
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.vbproj.CoreCompileInputs.cache
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.exe
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.xml
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.pdb
+G:\Programs\VB.NET\LitterPUP\LitterPUP\obj\Debug\LitterPUP.frmMAIN.resources

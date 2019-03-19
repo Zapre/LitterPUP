@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LitterPUP", "LitterPUP\LitterPUP.vbproj", "{1CD8904C-B6F6-40AF-9CF8-308A6A2AE048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD8904C-B6F6-40AF-9CF8-308A6A2AE048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD8904C-B6F6-40AF-9CF8-308A6A2AE048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD8904C-B6F6-40AF-9CF8-308A6A2AE048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD8904C-B6F6-40AF-9CF8-308A6A2AE048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D640042C-D13C-49F7-95EA-873499B45D95}
+	EndGlobalSection
+EndGlobal
